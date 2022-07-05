@@ -1,0 +1,12 @@
+print("hello M.6/14")
+print("Ratthanan")
+print("Thirapattananon")
+print("Title")
+print("Age 17 years old")
+print("Height 180 cm")
+print("Weight 65 kg")
+print("Year of birth 07/12/2004")
+print("male")
+print("Tel. 0959479757")
+print("Chonrasadornumrung")
+#รัฐนันท์ ถิรพัฒนานนท์ เลขที่20 ม.6/14
